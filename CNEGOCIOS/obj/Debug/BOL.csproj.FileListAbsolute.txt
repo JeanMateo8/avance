@@ -1,0 +1,9 @@
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CNEGOCIOS\bin\Debug\CNEGOCIOS.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CNEGOCIOS\bin\Debug\CNEGOCIOS.pdb
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CNEGOCIOS\bin\Debug\CDATOS.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CNEGOCIOS\bin\Debug\CDATOS.pdb
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CNEGOCIOS\obj\Debug\BOL.csproj.AssemblyReference.cache
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CNEGOCIOS\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CNEGOCIOS\obj\Debug\BOL.csproj.CopyComplete
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CNEGOCIOS\obj\Debug\CNEGOCIOS.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CNEGOCIOS\obj\Debug\CNEGOCIOS.pdb

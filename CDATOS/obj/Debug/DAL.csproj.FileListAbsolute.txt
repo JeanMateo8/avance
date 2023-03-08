@@ -1,0 +1,6 @@
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CDATOS\bin\Debug\CDATOS.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CDATOS\bin\Debug\CDATOS.pdb
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CDATOS\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CDATOS\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CDATOS\obj\Debug\CDATOS.dll
+C:\Users\jeanm\OneDrive\Escritorio\SISTEMAVENTALICORERIA\CDATOS\obj\Debug\CDATOS.pdb
